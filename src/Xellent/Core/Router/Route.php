@@ -2,8 +2,7 @@
 
 namespace Xellent\Core\Router;
 
-use InvalidArgumentException,
-    LogicException;
+use InvalidArgumentException, LogicException;
 
 
 class Route {
