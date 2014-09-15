@@ -3,6 +3,6 @@
 namespace Xellent\Core\Router;
 
 
-class NotFoundException extends \RuntimeException
-{
+class NotFoundException extends \RuntimeException{
+	
 }
